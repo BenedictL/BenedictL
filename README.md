@@ -37,9 +37,9 @@ My thesis project **SnakeLLM** asks: *can we fine-tune a small open-source LLM t
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| 🐍 **[SnakeLLM](https://github.com/YOUR_USERNAME/SnakeLLM)** | Fine-tuned LLM for Snakemake pipeline generation | `QLoRA` `TRL` `ChromaDB` `GCP` | ![Active](https://img.shields.io/badge/Active-2e7d32?style=flat-square) |
-| 🧬 **[VariantMind](https://github.com/YOUR_USERNAME/VariantMind)** | CLI variant effect prediction with AlphaGenome | `gRPC` `AlphaGenome` `Jinja2` | ![Dev](https://img.shields.io/badge/In%20Dev-1565c0?style=flat-square) |
-| 💊 **[HelixEvidence](https://github.com/YOUR_USERNAME/HelixEvidence)** | Gene therapy research agent (ClinVar, gnomAD, Ensembl) | `n8n` `ClinVar` `gnomAD` | ![Prototype](https://img.shields.io/badge/Prototype-6a1b9a?style=flat-square) |
+| 🐍 **[SnakeLLM](https://github.com/BenedictL/SnakeLLM)** | Fine-tuned LLM for Snakemake pipeline generation | `QLoRA` `TRL` `ChromaDB` `GCP` | ![Active](https://img.shields.io/badge/Active-2e7d32?style=flat-square) |
+| 🧬 **[VariantMind](https://github.com/BenedictL/VariantMind)** | CLI variant effect prediction with AlphaGenome | `gRPC` `AlphaGenome` `Jinja2` | ![Dev](https://img.shields.io/badge/In%20Dev-1565c0?style=flat-square) |
+| 💊 **[HelixEvidence](https://github.com/BenedictL/HelixEvidence)** | Gene therapy research agent (ClinVar, gnomAD, Ensembl) | `n8n` `ClinVar` `gnomAD` | ![Prototype](https://img.shields.io/badge/Prototype-6a1b9a?style=flat-square) |
 | 🔇 **Silent Mutation Re-Evaluator** | Disease-causing synonymous variants × splicing | `AlphaGenome` `ClinVar` | ![Research](https://img.shields.io/badge/Research-e65100?style=flat-square) |
 
 ---
@@ -84,14 +84,20 @@ My thesis project **SnakeLLM** asks: *can we fine-tune a small open-source LLM t
 
 ---
 
-## 📊 GitHub Stats
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=0d7377&icon_color=0d7377&text_color=2d3748&bg_color=fafafa"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true&title_color=0d7377&text_color=2d3748&bg_color=fafafa"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BenedictL&theme=default&hide_border=true&ring=0d7377&fire=e07b39&currStreakLabel=0d7377&sideLabels=0d7377" alt="streak"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true&ring=0d7377&fire=e07b39&currStreakLabel=0d7377&sideLabels=0d7377" alt="streak"/>
+<br/><br/>
+
+![Python](https://img.shields.io/badge/Python-Most%20Used-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Snakemake](https://img.shields.io/badge/Snakemake-Pipeline%20Dev-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-ML%20Research-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-Training%20Infra-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 </div>
 
